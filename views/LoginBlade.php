@@ -1,6 +1,6 @@
 <?php 
 
-include "../views/layouts/EnteteBlade.php";
+include("../views/layouts/EnteteBlade.php");
 
 ?>
 
@@ -41,6 +41,6 @@ include "../views/layouts/EnteteBlade.php";
 
 <?php
 
-include "../views/layouts/EnteteBlade.php";
+include ("../views/layouts/FooterBlade.php");
 
  ?>
